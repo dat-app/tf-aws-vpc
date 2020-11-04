@@ -1,0 +1,2 @@
+[![Maintained by dat-app.academy](https://img.shields.io/static/v1?style=flat-square&logo=terraform&label=maintained%20by&message=dat-app.io&color=blueviolet)](https://github.com/dat-app)
+## AWS Virtual Private Cloud (VPC) Component Module
